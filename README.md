@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @daryl John
+- 👋 Hi, 
 - 👀 I’m interested in coding...
 - 🌱 I’m currently learning reactjs...
 - 💞️ I’m looking to collaborate on anything under the sun...
-- 📫 Reach me in https://www.facebook.com/daryojuan
 - ⚡ Fun fact: ... love to play MLBB
 
 <!---
