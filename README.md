@@ -1,10 +1,14 @@
-- 👋 Hi, 
-- 👀 I’m interested in coding...
-- 🌱 I’m currently learning reactjs...
-- 💞️ I’m looking to collaborate on anything under the sun...
-- ⚡ Fun fact: ... love to play MLBB
+# 👋 Hi, I’m DJ!
 
-<!---
-djmirontos/djmirontos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**IT professional and developer turning everyday problems into practical apps.**
+
+With over 10 years of experience in technical support, network and systems administration, I bring an operations mindset to building software: make it useful, reliable, and easy to use.
+
+- 💻 **I build:** Web and mobile apps, automation tools, and analytics dashboards.
+- 🛠️ **My toolkit:** JavaScript, TypeScript, React, Next.js, React Native, Expo, Supabase, and SQL.
+- 🌱 **Currently sharpening:** Full-stack development, mobile app architecture, and performance.
+- 🤝 **Open to collaborating on:** Useful apps, developer tools, and projects that help communities or small businesses.
+- 🎮 **Away from the keyboard:** You’ll probably find me playing Moba games.
+
+### What drives me
+Finding a frustrating everyday problem—and building something that makes it easier.
